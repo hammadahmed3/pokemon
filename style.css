@@ -1,0 +1,649 @@
+body{
+    /* background-color: #8080803d; */
+    background-color: rgb(245, 245, 245);
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.nav1
+{
+   border: 1px solid lightgrey;
+   padding-top: 3px;
+   padding-bottom: 3px;
+}
+.row3
+{
+    display: flex;
+}
+#h1,h2,h3,h4,h5,h6
+{
+    transition: 3px;
+    box-shadow: rgb(178, 189, 183) 5px;
+  
+ 
+}
+.nav1>img{
+    border: 2px solid lightgray;
+}
+#h1:hover
+{
+    transform: scale(1.05);
+    z-index: 0.7;
+}
+#h2:hover
+{
+    transform: scale(1.05);
+    z-index: 0.7;
+}
+#h3:hover
+{
+    transform: scale(1.05);
+    z-index: 0.7;
+}
+#h4:hover
+{
+    transform: scale(1.05);
+    z-index: 0.7;
+}
+#h5:hover
+{
+    transform: scale(1.05);
+    z-index: 0.7;
+}
+#h6:hover
+{
+    transform: scale(1.05);
+    z-index: 0.7;
+}
+.full-cont
+{
+    background-color: white;
+   
+}
+.full-cont1
+{
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+ 
+   
+}
+.row2{
+    display: flex;
+    /* justify-content: space-evenly; */
+    justify-content: center;
+    margin-top: -30px; 
+    
+  
+}
+.images-multi
+{
+    display: flex;
+}
+.img1
+{
+   margin-left: 18%;
+   position: relative;
+   top: 11px;
+   z-index: 5;
+}
+.img2
+{
+   margin-left: 7.2%;
+   position: relative;
+   top: 9px;
+   z-index: 5;
+}
+.img3
+{
+   margin-left: 7.3%;
+   position: relative;
+   top: 9px;
+   z-index: 5;
+
+}
+
+.img4
+{
+   margin-left: 7.3%;
+   position: relative;
+   top: 9px;
+   z-index: 5;
+
+}
+
+.img5
+{
+   margin-left: 7.3%;
+   position: relative;
+   top: 9px;
+   z-index: 5;
+
+}
+
+.img6
+{
+   margin-left: 7.3%;
+   position: relative;
+   top: 9px;
+   z-index: 5;
+
+}
+.img7
+{
+   margin-left: 4px;
+   position: relative;
+   top: 9px;
+   z-index: 5;
+
+}
+.img8
+{
+   margin-left: 7.4%;
+   position: relative;
+   top: 9px;
+   z-index: 5;
+
+}
+
+
+.end{
+    margin-bottom: 250px;
+    background-color: white;
+}
+
+.image
+{
+    width: 10%;
+}
+.items {
+    width: 138px;
+    height: 100px;
+    /* border: 1px solid black; */
+    /* border-radius: 4px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.row4
+{
+    display: flex;
+    margin-left: 75px;
+    margin-bottom: -10px;
+    /* padding-top: 80px; */
+
+}
+div#b8
+{
+    position: relative;
+    top: 10px;
+}
+div#b9
+{
+    position: relative;
+    top: 10px;
+}
+div#b10
+{
+    position: relative;
+    top: 10px;
+}
+div#b11
+{
+    position: relative;
+    top: 10px;
+}div#b12
+{
+    position: relative;
+    top: 10px;
+}
+div#b13
+{
+    position: relative;
+    top: 10px;
+}
+div#b14
+{
+    position: relative;
+    top: 10px;
+}
+
+div#b1 {
+    border-bottom: 8px solid gray;
+    background-color: rgb(145, 145, 145);
+  
+}
+div#b2 {
+    border-bottom: 8px solid red;
+}
+div#b3 {
+    border-bottom: 8px solid orange;
+    text-align: center;
+    padding-top: 22px;
+}
+div#b4 {
+    border-bottom: 8px solid rgb(230, 188, 47);
+    font-size: 15px;
+  
+}
+div#b5 {
+    border-bottom: 8px solid green;
+   
+}
+div#b6 {
+    border-bottom: 8px solid lightblue;
+    text-align: center;
+    padding-top: 24px;
+}
+div#b7 {
+    border-bottom: 8px solid darkblue;
+}
+
+div#b2:hover {
+   background-color: red;
+}
+div#b3:hover {
+    background-color: orange;
+ }
+ div#b4:hover {
+    background-color: rgb(230, 188, 47);
+ }
+ div#b5:hover {
+    background-color: green;
+ }
+ div#b6:hover {
+    background-color: lightblue;
+ }
+ div#b7:hover {
+    background-color: darkblue;
+ }
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+    background-image: url(./assets/bg.jpeg);
+   
+}
+
+
+
+.card{
+    margin: auto;
+    border-radius: 10px;
+    
+}
+
+
+.body1
+{
+    background-color: rgb(27, 130, 177);
+    height: 175px;
+}
+.text1
+{
+    color: white;
+    font-size: 22px;
+    margin-bottom: -1px;
+    
+}
+.body2
+{
+    background-color: rgb(115, 75, 178);
+  
+}
+.text2
+{
+    color: white;
+    font-size: 22px;
+
+    
+}
+.body3
+{
+    background-color: rgb(184, 147, 85);
+   
+}
+.body4
+{
+    background-color: darkblue;
+    padding-bottom: 35px;
+    color: white;
+    font-size: 25px;
+   
+}
+#imag1
+{
+ height: 165px;
+}
+
+.body5
+{
+    background-color: rgb(77, 173, 91);
+    color: white;
+    font-size: 22px;
+   
+}
+.body6
+{
+    background-color: gray;
+
+    font-size: 22px;
+}
+.body-row
+{
+    background-color: white;
+}
+
+.body1:hover
+{
+    background-color: rgb(4, 106, 153);
+}
+.body2:hover
+{
+    background-color: darkorchid;
+}
+.body3:hover
+{
+    background-color: rgb(180, 162, 55);
+}
+.body4:hover
+{
+    background-color: rgb(4, 106, 153);
+}
+.body5:hover
+{
+    background-color: green;
+}
+.body6:hover
+{
+    background-color: darkgrey;
+}
+
+.Pokeimg {
+    width: 280px;
+
+    margin: 10px auto;
+    background-color: rgb(82, 82, 82);
+}
+.cardspok{
+    display: flex;
+   
+}
+.poke{
+    text-align: center;
+    width: 400px;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    
+  
+
+}
+.carousel-text
+{
+    display: flex;
+    font-size: 22px;
+}
+.button-carosuel1
+{
+    background-color: black;
+    color: white;
+    border-radius: 5px 5px 0px 0px;
+    border: 3px solid black;
+    width: 220px;
+    padding-top: 5px;
+
+   
+}
+.button-carosuel
+{
+    margin-top: -6%;
+    margin-left: 30%;
+   justify-content: center;
+}
+.lef
+{
+   margin-left: 35px;
+}
+.righ
+{
+   margin-left: 130px;
+}
+.buto
+{
+    background-color: orange;
+    width: 75px;
+    height: 30px;
+    margin-left: 30px;
+}
+.car-rig
+{
+    margin-left: 10px;
+}
+.buto1
+{
+    background-color: lightgreen;
+    border: 20px;
+    width: 50px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.buto2
+{
+    background-color: goldenrod;
+    border: 20px;
+    width: 60px;
+    height: 30px;
+    margin-left: 5px;
+}
+
+.explore
+{
+    background-color: black;
+    margin-top: 1%;
+    border-radius: 10px;
+    margin-left: 70%;
+    height: 50px;
+
+}
+.explore>a
+{
+    text-decoration: none;
+    color: white;
+}
+.body7
+{
+    background-color:  rgb(218, 71, 27);
+    
+}
+.body-text1
+{
+    color: black;
+}
+.displaycard
+{
+    margin-top: 25%;
+}
+.body8
+{
+    background-color: rgb(139, 139, 139);
+    height: 250px;
+}
+.text3
+{
+    color: black;
+    font-size: 25px;
+    font-weight: 100;
+}
+.displaycard1
+{
+    margin-top: 25%;
+
+}
+.body9
+{
+    background-color: rgb(49, 49, 49);
+    height: 240px;
+    color: white;
+}
+.displaycard2
+{
+    margin-top: -15%;
+
+}
+.body10
+{
+    background-color: rgb(184, 147, 85);
+}
+.displaycard3
+{
+    border: none;
+    
+}
+.text5
+{
+    color: gray;
+    width: 280px;
+    font-size: 28px;
+    height: 100px;
+}
+.displaycard4
+{
+    margin-top: 40%;
+    margin-left: -55%;
+}
+.body11
+{
+    background-color: darkblue;
+    color: rgb(11%, 33%, 73%);
+    height: 220px;
+}
+.displaycard5
+{
+    margin-left: 600px;
+    margin-top: -475px;
+   
+}
+.body12
+{
+    background-color: rgb(38, 149, 196);
+}
+.displaycard6
+{
+    margin-left: 300px;
+    margin-top: -40px;
+    border: none;
+}
+
+
+.displaycard6>img
+{
+    width: 280px;
+}
+.footer-container
+{
+    background-color: rgb(31, 31, 31);
+    padding-bottom: 2%;
+}
+.footer-head
+{
+   color: white;
+    width: 400px;
+    border-right: 3px solid black;
+    margin-top: 20px;
+    margin-left: -30px;
+   
+}
+.footer-list>li>a
+{
+    text-decoration: none;
+    color: gray;
+   
+}
+.footer-list>li{
+    list-style: none;
+    margin-left: -20px;
+}
+.footer-list>li>a:hover
+{
+    color: white;
+}
+.footer-head1
+{
+    display: flex;
+    margin-top: 12%;
+    margin-left: 80%;
+   
+   
+}
+
+.fb
+{
+    padding-right: 5px;
+}
+.insta
+{
+    padding-right: 5px;
+}
+.twitter
+{
+    padding-right: 5px;
+}
+.pintrest
+{
+    padding-right: 5px;
+}
+.youtube
+{
+    padding-right: 5px;
+}
+.line 
+{
+    border: 2px solid black;
+    height: 210px;
+    margin-left: 10px;
+   
+}
+.footer-end
+{
+    margin-left: 100%;
+    margin-top: 38%;
+}
+.pic-foot
+{
+    width: 10%;
+    margin-right: 20px;
+}
+.listing-footer>li{
+    color: rgb(50, 49, 48);
+    margin-left: 45%;
+    width: 100px;
+    text-decoration: underline;
+    list-style: none;
+   
+    
+}
+.listing-footer
+{
+    width: 200%;
+}
+.footer-para
+{
+    color: rgb(50, 49, 48);
+    width: 20%;
+    font-size: 12px;
+    margin: 10px auto;
+    margin-left: 64%;
+    margin-top: -4%;
+}
